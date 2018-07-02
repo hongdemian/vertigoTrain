@@ -1,14 +1,21 @@
 /*
 !.gitignore
-!.wp-content/*
+!.wp-content/
 
 #wp-content/*
-!wp-content/plugins/
-!wp-content/themes/
+#!wp-content/plugins/
+#!wp-content/themes/
 
 #wp-content/themes/*
-!wp-content/themes/Business-theme/
-!wp-content/themes/the-Monday/
+#!wp-content/themes/Business-theme/
+#!wp-content/themes/the-Monday/
 
 #wp-content/plugins/*
+
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
 
