@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Instagram Feed\n"
+"POT-Creation-Date: 2015-12-31 16:31+0545\n"
+"PO-Revision-Date: 2015-12-31 16:31+0545\n"
+"Last-Translator: \n"
+"Language-Team: AccessPress Themes <support@accesspressthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-instagram-feed.php:98 ../inc/backend/main-page.php:35
+msgid "AccessPress Instagram Feed"
+msgstr ""
+
+#: ../inc/backend/main-page.php:18
+msgid "Follow us for new updates"
+msgstr ""
+
+#: ../inc/backend/main-page.php:43
+msgid "Instagram Profiles"
+msgstr ""
+
+#: ../inc/backend/main-page.php:45
+msgid "Display Settings"
+msgstr ""
+
+#: ../inc/backend/main-page.php:47
+msgid "How to use"
+msgstr ""
+
+#: ../inc/backend/main-page.php:49
+msgid "About"
+msgstr ""
+
+#: ../inc/backend/save-settings.php:31
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: ../inc/backend/widget.php:14
+msgid "AP : Instagram Masonry"
+msgstr ""
+
+#: ../inc/backend/widget.php:15
+msgid "AccessPress Instagram Widget"
+msgstr ""
+
+#: ../inc/backend/widget.php:71 ../inc/backend/widgetside.php:134
+msgid "Title:"
+msgstr ""
+
+#: ../inc/backend/widget.php:76
+msgid "Layout :"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:14
+msgid "AP : Instagram Feeds"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:15
+msgid "AccessPress Instagram Feeds"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:139
+msgid "Number of Image:"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:149
+msgid "Display Instagram Post :"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:154
+msgid "Display Followers :"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:159
+msgid "Display Instagram Following :"
+msgstr ""
+
+#: ../inc/backend/widgetside.php:164
+msgid "Display Instagram Follow Button :"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:7
+msgid "Image Like"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:8
+msgid "Show/Hide"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:14
+msgid "Choose Instagram Themes Layout"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:17
+msgid "Mosaic layout"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:21
+msgid "Mosaic LightBox Layout"
+msgstr ""
+
+#: ../inc/backend/boards/display-settings.php:25
+msgid "Slider Layout"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:5
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:8
+msgid "Instagram Username"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:11
+msgid "Please enter the instagram username"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:15
+msgid "Instagram User ID"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:18
+msgid ""
+"Please enter the instagram user ID.You can get this information from <a href="
+"\"http://www.pinceladasdaweb.com.br/instagram/access-token/\" target=\"_blank"
+"\">http://www.pinceladasdaweb.com.br/instagram/access-token/</a>"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:22
+msgid "Instagram Access Token"
+msgstr ""
+
+#: ../inc/backend/boards/instagram-profiles.php:25
+msgid ""
+"Please enter the instagram Access Token.You can get this information from <a "
+"href=\"http://www.pinceladasdaweb.com.br/instagram/access-token/\" target="
+"\"_blank\">http://www.pinceladasdaweb.com.br/instagram/access-token/</a>"
+msgstr ""
