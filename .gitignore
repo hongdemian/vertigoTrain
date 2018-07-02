@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!.wp-content/
+
+wp-content/*
+!wp-content/plugins/
+!wp-content/themes/
+
+wp-content/themes/*
+!wp-content/themes/Business-theme/
+!wp-content/themes/the-Monday/
+
+wp-content/plugins/*
+
